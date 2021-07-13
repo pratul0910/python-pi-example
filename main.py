@@ -1,2 +1,6 @@
+def main(msg):
+    //Adding the second comment to this
+    // Print a message
+    print(msg)
 
-print('hello world n')
+main("Hello people")
